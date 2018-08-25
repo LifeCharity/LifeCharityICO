@@ -1,5 +1,5 @@
 # Life Charity ICO
-[Life Charity ICO](lifecharity.io) blockchain platform smart contracts with LifeToken (LFT). 
+[Life Charity ICO](ya.ru) blockchain platform smart contracts with LifeToken (LFT). 
 # About
 This package contains Ethereum smart contracts for Life Charity blockchain platform ICO 
 # About the project
